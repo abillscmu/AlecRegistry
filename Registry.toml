@@ -4,3 +4,4 @@ repo = "https://github.com/abillscmu/AlecRegistry"
 description = "The official private registry of alec"
 
 [packages]
+3496906c-a3e1-4a4f-8055-83ed9b3a7d55 = { name = "MATLABPlots", path = "M/MATLABPlots" }
