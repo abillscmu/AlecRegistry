@@ -1,0 +1,6 @@
+name = "AlecRegistry"
+uuid = "0938e7e9-6a13-42a2-b721-e529281cb023"
+repo = "https://github.com/abillscmu/AlecRegistry"
+description = "The official private registry of alec"
+
+[packages]
