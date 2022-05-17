@@ -4,4 +4,5 @@ repo = "https://github.com/abillscmu/AlecRegistry"
 description = "The official private registry of alec"
 
 [packages]
+250bd719-b80d-4754-99c9-91adf71514ef = { name = "CellFitAnalysis", path = "C/CellFitAnalysis" }
 3496906c-a3e1-4a4f-8055-83ed9b3a7d55 = { name = "MATLABPlots", path = "M/MATLABPlots" }
