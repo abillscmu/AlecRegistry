@@ -6,5 +6,6 @@ description = "The official private registry of alec"
 [packages]
 250bd719-b80d-4754-99c9-91adf71514ef = { name = "CellFitAnalysis", path = "C/CellFitAnalysis" }
 3496906c-a3e1-4a4f-8055-83ed9b3a7d55 = { name = "MATLABPlots", path = "M/MATLABPlots" }
+49f4ef68-3eb1-42e4-aa94-66d4a6be6430 = { name = "MACCOR", path = "M/MACCOR" }
 668af3cc-f2ef-4a7d-b1fa-f6749eb8cc43 = { name = "CheckpointedOptim", path = "C/CheckpointedOptim" }
 9481f96d-5e94-4b88-aa82-f762289ff7dd = { name = "QuadraticBMS", path = "Q/QuadraticBMS" }

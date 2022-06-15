@@ -1,0 +1,3 @@
+name = "MACCOR"
+uuid = "49f4ef68-3eb1-42e4-aa94-66d4a6be6430"
+repo = "git@github.com:abillscmu/MACCOR.jl.git"
