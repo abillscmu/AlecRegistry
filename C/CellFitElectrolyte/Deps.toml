@@ -26,3 +26,6 @@ Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
 
 ["1.2.2-1"]
 DataInterpolations = "82cc6244-b520-54b8-b5a6-8a565e85f1d0"
+
+["1.2.4-1"]
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
