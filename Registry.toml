@@ -9,5 +9,6 @@ description = "The official private registry of alec"
 49f4ef68-3eb1-42e4-aa94-66d4a6be6430 = { name = "MACCOR", path = "M/MACCOR" }
 668af3cc-f2ef-4a7d-b1fa-f6749eb8cc43 = { name = "CheckpointedOptim", path = "C/CheckpointedOptim" }
 9481f96d-5e94-4b88-aa82-f762289ff7dd = { name = "QuadraticBMS", path = "Q/QuadraticBMS" }
+9b5aa613-97c1-499a-a1f5-3f6b52574d4f = { name = "KDEDistributions", path = "K/KDEDistributions" }
 b2dcbbec-23b4-43a7-a569-d41358da336e = { name = "OCV", path = "O/OCV" }
 db930f26-d6e4-4d2e-b115-89fcca269ba4 = { name = "CellFitElectrolyte", path = "C/CellFitElectrolyte" }
