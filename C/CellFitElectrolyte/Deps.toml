@@ -43,3 +43,7 @@ KernelDensity = "5ab0869b-81aa-558d-bb23-cbf5423bbe9b"
 PreallocationTools = "d236fae5-4411-538c-8e31-a6e3d9e00b46"
 StatsPlots = "f3b207a7-027a-5e70-b257-86293d7955fd"
 Turing = "fce5fe82-541a-59a6-adf8-730c64b5f9a0"
+
+["1.6-1"]
+DiffEqFlux = "aae7a2af-3d4f-5e19-a356-7da93b79d9d0"
+KDEDistributions = "9b5aa613-97c1-499a-a1f5-3f6b52574d4f"
