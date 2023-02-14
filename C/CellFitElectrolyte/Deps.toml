@@ -47,3 +47,11 @@ Turing = "fce5fe82-541a-59a6-adf8-730c64b5f9a0"
 ["1.6-1"]
 DiffEqFlux = "aae7a2af-3d4f-5e19-a356-7da93b79d9d0"
 KDEDistributions = "9b5aa613-97c1-499a-a1f5-3f6b52574d4f"
+
+["1.6.1-1"]
+AdvancedMH = "5b7e9947-ddc0-4b3f-9b55-0d8042f74170"
+ArgParse = "c7e460c6-2fb9-53a9-8c5b-16f535851c63"
+LinearSolve = "7ed4a6bd-45f5-4d41-b270-4a48e9bafcae"
+NLsolve = "2774e3e8-f4cf-5e23-947b-6d7e65073b56"
+PProf = "e4faabce-9ead-11e9-39d9-4379958e3056"
+Symbolics = "0c5d862f-8b57-4792-8d23-62f2024744c7"
