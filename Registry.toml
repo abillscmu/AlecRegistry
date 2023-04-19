@@ -12,3 +12,4 @@ description = "The official private registry of alec"
 9b5aa613-97c1-499a-a1f5-3f6b52574d4f = { name = "KDEDistributions", path = "K/KDEDistributions" }
 b2dcbbec-23b4-43a7-a569-d41358da336e = { name = "OCV", path = "O/OCV" }
 db930f26-d6e4-4d2e-b115-89fcca269ba4 = { name = "CellFitElectrolyte", path = "C/CellFitElectrolyte" }
+fca5ce96-07e6-488e-83f1-b08868dda0ac = { name = "PyBaMM", path = "P/PyBaMM" }
